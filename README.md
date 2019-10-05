@@ -22,3 +22,4 @@ class RemoteConfig {
   };
 }
 ```
+# wc_products
